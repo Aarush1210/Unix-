@@ -33,4 +33,11 @@ Closes the program.
 ---
 
 ##  Project Files
+<img width="675" height="484" alt="Screenshot 2025-11-17 123035" src="https://github.com/user-attachments/assets/2fb6f1db-0d87-4daf-a027-b309b522de5d" />
+<img width="325" height="752" alt="Screenshot 2025-11-17 123124" src="https://github.com/user-attachments/assets/1b4eae8c-04dd-4658-accb-ebfcae0ce10d" />
+<img width="338" height="716" alt="Screenshot 2025-11-17 123157" src="https://github.com/user-attachments/assets/7986dca8-b7e2-4fcf-a115-a6256d133ae1" />
+<img width="466" height="272" alt="Screenshot 2025-11-17 123238" src="https://github.com/user-attachments/assets/63d00391-b444-4994-9877-17fa06d6051a" />
+
+
+
 
